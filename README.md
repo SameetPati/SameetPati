@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Tech Lead | 🧠 MLOps & LLMOps Enthusiast | 🎨 Full-Stack Developer & UI Designer from INDIA
+  🚀 Tech Lead | 🧠 MLOps & LLMOps Enthusiast | 🎨 Full-Stack Developer & AI ML Expert from INDIA
 </h3>
 
 <p align="center">
