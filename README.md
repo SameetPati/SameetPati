@@ -35,6 +35,8 @@
   <a href="https://sameetpati.ct.ws" target="_blank">
     <img src="https://img.shields.io/badge/🚀%203D%20Portfolio%20(Highly%20Interactive)-sameetpati.ct.ws-00c853?style=for-the-badge&logo=three.js" />
   </a>
+</p>
+<p>
   <a href="https://sameetpati.rf.gd" target="_blank">
     <img src="https://img.shields.io/badge/🎮%20Retro%20Themed%20Showcase-sameetpati.rf.gd-304ffe?style=for-the-badge&logo=html5" />
   </a>
