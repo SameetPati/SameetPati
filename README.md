@@ -1,45 +1,80 @@
-<h1 align="center">Hi 👋, I'm Sameet Keshari Pati</h1>
-<h3 align="center">A passionate Technical Lead - MLOps/LLMOPS from India 🇮🇳</h3>
+<h1 align="center">Hey there 👋, I'm Sameet Keshari Pati</h1>
+<h3 align="center">🚀 Tech Lead | 🧠 MLOps & LLMOps Enthusiast | 🎨 Full-Stack Developer & UI Designer from India 🇮🇳</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sameetpati&label=Profile%20views&color=0e75b6&style=flat" alt="sameetpati" /> 
+<p align="center">
+  <img src="https://os-sameetpati.rf.gd/static/media/animatedFace.1f43de5666e50ab05851.jpeg" width="200" alt="Sameet's face" />
 </p>
 
-- 🔭 I’m currently working at **Koch Business Solutions, India**
-- 💬 Ask me about **MLOps, LLMOps, Serverless Architecture, and DevOps**
-- 🌱 I’m currently exploring **Generative AI, LLM deployment pipelines**
-- 📫 How to reach me: **sameet.pati@outlook.com**
-- 👨‍💻 Visit my portfolio: [sameetpati.ct.ws](https://www.sameetpati.ct.ws)
-- 🌐 My personal site: [sameetpati.rf.gd](https://www.sameetpati.rf.gd)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sameetpati" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameetpati" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/sameetpati">
+    <img src="https://img.shields.io/github/followers/sameetpati?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="mailto:sameet.pati@outlook.com">
+    <img src="https://img.shields.io/badge/email-sameet.pati@outlook.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/sameetpati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sameet%20Pati-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://os-sameetpati.rf.gd/static/media/Sameet%20Pati-2025-Resume.f4552e3e62c342fc415d.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=flat-square&logo=adobeacrobatreader" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
+🌟 **About Me**  
+I write code like it's poetry and design UIs that feel like jazz. With 9+ years of dev & MLOps/LLMOps adventures, I'm the one mixing 🎯 precision with 🎨 creativity.
+
+- 📦 Automated ML deployments with serverless spells 🧙‍♂️  
+- 🎨 UI/UX designer with a passion for smooth interactions & crisp visuals  
+- ☁️ Mastered AWS | Azure | GCP like they're my digital pets  
+- 🛠️ Full-stack architect: JavaScript, Python, Go, React, Terraform, and more  
+- 🧬 Played with LLMs before they were cool — now I deploy them with pipelines  
+- 👨‍🎤 Former stage artist, cultural award winner, and hackathon beast
+
+🧑‍💻 Check out my portfolios:  
+- 🌐 [https://www.sameetpati.ct.ws](https://www.sameetpati.ct.ws)  
+- 🌐 [https://www.sameetpati.rf.gd](https://www.sameetpati.rf.gd)  
+
+---
+
+<h3>🛠️ Languages & Tools I Party With:</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameetpati&show_icons=true&locale=en&layout=compact" alt="sameetpati" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameetpati&show_icons=true&locale=en" alt="sameetpati" />
+---
+
+<h3>🔥 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameetpati&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<h3>📢 Let's Collaborate!</h3>
+
+- 💡 Building cloud-native, AI-first systems
+- 🧪 Researching in Generative AI & automation
+- ✨ Designing experiences that users love
+- 🎤 Always up for speaking, mentoring, and jamming on ideas
+
+---
+
+<h3 align="center">✨ Thanks for stopping by ✨</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=37C2D6&center=true&width=600&lines=Keep+learning.;Keep+shipping.;Keep+smiling.+" />
 </p>
